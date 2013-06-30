@@ -3,3 +3,4 @@
 0164. 📚 docs: document token refresh logic
 0977. 🔧 refactor: organize models into subfolders
 0604. 📚 docs: add API usage examples
+0377. ✨ feat: add user authentication
