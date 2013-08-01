@@ -13,3 +13,4 @@
 0155. ✨ feat: create admin dashboard
 0402. 🎨 style: reformat files with black
 0644. 🎨 style: apply consistent indentation
+0014. 🔧 refactor: remove redundant code blocks
