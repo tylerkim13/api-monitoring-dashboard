@@ -14,3 +14,4 @@
 0402. 🎨 style: reformat files with black
 0644. 🎨 style: apply consistent indentation
 0014. 🔧 refactor: remove redundant code blocks
+0095. ✅ test: mock database connection in test suite
