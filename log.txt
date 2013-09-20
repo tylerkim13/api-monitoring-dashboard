@@ -22,3 +22,4 @@
 0098. 🎨 style: rename variables for clarity
 0375. 🐛 fix: handle 500 error in quiz API
 0129. 🔧 refactor: organize models into subfolders
+0171. 🐛 fix: fix broken CSS in mobile view
