@@ -24,3 +24,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0171. 🐛 fix: fix broken CSS in mobile view
 0265. 🎨 style: reformat files with black
+0263. 📚 docs: add API usage examples
