@@ -37,3 +37,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0942. ✅ test: increase coverage on auth module
 0679. ♻️ chore: bump dependencies
+0062. ♻️ chore: update .gitignore
