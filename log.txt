@@ -58,3 +58,4 @@
 0963. 🚀 perf: reduce image load time
 0344. ♻️ chore: add GitHub actions badge
 0135. ✅ test: test user registration edge cases
+0648. ♻️ chore: bump dependencies
