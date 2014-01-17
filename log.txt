@@ -59,3 +59,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0135. ✅ test: test user registration edge cases
 0648. ♻️ chore: bump dependencies
+0696. 🔧 refactor: clean up auth middleware
