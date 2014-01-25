@@ -63,3 +63,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0017. ✅ test: mock database connection in test suite
 0817. 🔧 refactor: remove redundant code blocks
+0690. 🚀 perf: lazy-load components
