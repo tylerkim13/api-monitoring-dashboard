@@ -65,3 +65,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0690. 🚀 perf: lazy-load components
 0731. 🎨 style: standardize quote style
+0843. 📚 docs: document token refresh logic
