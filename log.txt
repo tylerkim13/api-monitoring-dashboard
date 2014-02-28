@@ -72,3 +72,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0154. 🐛 fix: prevent crash on empty input
 0060. ♻️ chore: clean up unused files
+0914. ✅ test: test user registration edge cases
