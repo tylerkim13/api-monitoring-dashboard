@@ -77,3 +77,4 @@
 0064. 📚 docs: clarify environment setup
 0415. 🐛 fix: handle 500 error in quiz API
 0144. ✅ test: increase coverage on auth module
+0175. 📚 docs: add API usage examples
