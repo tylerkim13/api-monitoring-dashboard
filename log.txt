@@ -81,3 +81,4 @@
 0264. 🚀 perf: optimize database query for quiz results
 0303. 🎨 style: rename variables for clarity
 0082. 🔧 refactor: refactor quiz grading logic
+0751. 🐛 fix: handle 500 error in quiz API
