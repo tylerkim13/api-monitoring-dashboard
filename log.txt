@@ -85,3 +85,4 @@
 0566. 📚 docs: write FAQ section
 0152. ✨ feat: add user authentication
 0462. ♻️ chore: update .gitignore
+0349. ✅ test: increase coverage on auth module
