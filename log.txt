@@ -92,3 +92,4 @@
 0536. ✨ feat: add user authentication
 0296. 🔧 refactor: organize models into subfolders
 0787. ♻️ chore: rename env.example
+0869. ♻️ chore: bump dependencies
