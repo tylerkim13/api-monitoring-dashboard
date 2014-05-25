@@ -93,3 +93,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0787. ♻️ chore: rename env.example
 0869. ♻️ chore: bump dependencies
+0545. 🎨 style: standardize quote style
