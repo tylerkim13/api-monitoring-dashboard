@@ -107,3 +107,4 @@
 0965. 🎨 style: reformat files with black
 0096. 🐛 fix: prevent crash on empty input
 0806. 📚 docs: improve code comments in utils
+0081. 🐛 fix: fix null pointer exception on login
