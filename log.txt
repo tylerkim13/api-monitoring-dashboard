@@ -110,3 +110,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0432. 🎨 style: apply consistent indentation
 0228. 🔧 refactor: remove redundant code blocks
+0074. ♻️ chore: add GitHub actions badge
