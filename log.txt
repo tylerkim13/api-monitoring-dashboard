@@ -117,3 +117,4 @@
 0935. 📚 docs: update README with setup steps
 0188. 🎨 style: apply consistent indentation
 0486. ✨ feat: add export to CSV option
+0335. ♻️ chore: update .gitignore
