@@ -119,3 +119,4 @@
 0486. ✨ feat: add export to CSV option
 0335. ♻️ chore: update .gitignore
 0145. 📚 docs: improve code comments in utils
+0771. 🚀 perf: cache repeated calculations
