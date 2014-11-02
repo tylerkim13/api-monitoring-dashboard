@@ -122,3 +122,4 @@
 0771. 🚀 perf: cache repeated calculations
 0373. 📚 docs: document token refresh logic
 0204. 🎨 style: standardize quote style
+0826. 📚 docs: clarify environment setup
