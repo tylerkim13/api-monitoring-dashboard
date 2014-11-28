@@ -128,3 +128,4 @@
 0302. ✨ feat: implement quiz timer feature
 0297. 🎨 style: remove trailing whitespace
 0904. ✨ feat: implement quiz timer feature
+0543. ✨ feat: support email verification
