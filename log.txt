@@ -129,3 +129,4 @@
 0297. 🎨 style: remove trailing whitespace
 0904. ✨ feat: implement quiz timer feature
 0543. ✨ feat: support email verification
+0964. ♻️ chore: clean up unused files
