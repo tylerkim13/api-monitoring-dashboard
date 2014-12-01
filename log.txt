@@ -130,3 +130,4 @@
 0904. ✨ feat: implement quiz timer feature
 0543. ✨ feat: support email verification
 0964. ♻️ chore: clean up unused files
+0539. 🔧 refactor: organize models into subfolders
