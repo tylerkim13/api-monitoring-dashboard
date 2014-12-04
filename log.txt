@@ -131,3 +131,4 @@
 0543. ✨ feat: support email verification
 0964. ♻️ chore: clean up unused files
 0539. 🔧 refactor: organize models into subfolders
+0359. 🔧 refactor: clean up auth middleware
