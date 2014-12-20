@@ -135,3 +135,4 @@
 0564. 📚 docs: clarify environment setup
 0353. ♻️ chore: rename env.example
 0089. 🔧 refactor: remove redundant code blocks
+0707. 🎨 style: apply consistent indentation
