@@ -143,3 +143,4 @@
 0599. ✅ test: test user registration edge cases
 0753. 🔧 refactor: remove redundant code blocks
 0624. ✅ test: add unit test for quiz service
+0330. ✅ test: test user registration edge cases
