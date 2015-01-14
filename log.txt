@@ -144,3 +144,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0624. ✅ test: add unit test for quiz service
 0330. ✅ test: test user registration edge cases
+0197. 📚 docs: update README with setup steps
