@@ -146,3 +146,4 @@
 0330. ✅ test: test user registration edge cases
 0197. 📚 docs: update README with setup steps
 0739. 🎨 style: remove trailing whitespace
+0474. ✅ test: add unit test for quiz service
