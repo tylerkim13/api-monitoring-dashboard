@@ -147,3 +147,4 @@
 0197. 📚 docs: update README with setup steps
 0739. 🎨 style: remove trailing whitespace
 0474. ✅ test: add unit test for quiz service
+0430. 🐛 fix: fix null pointer exception on login
