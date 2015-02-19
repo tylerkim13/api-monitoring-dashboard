@@ -155,3 +155,4 @@
 0470. 🎨 style: remove trailing whitespace
 0477. 🐛 fix: fix broken CSS in mobile view
 0581. ✅ test: add integration test for /submit endpoint
+0742. 📚 docs: clarify environment setup
