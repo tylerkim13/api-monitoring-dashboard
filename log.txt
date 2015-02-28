@@ -159,3 +159,4 @@
 0105. 🐛 fix: correct typo in registration form
 0128. ♻️ chore: rename env.example
 0975. 🎨 style: apply consistent indentation
+0468. 📚 docs: update README with setup steps
