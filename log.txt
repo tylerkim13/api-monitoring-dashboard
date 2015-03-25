@@ -163,3 +163,4 @@
 0249. ✅ test: increase coverage on auth module
 0416. 🎨 style: rename variables for clarity
 0465. 🎨 style: rename variables for clarity
+0857. 🎨 style: rename variables for clarity
