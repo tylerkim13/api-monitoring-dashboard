@@ -167,3 +167,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0004. 🚀 perf: optimize database query for quiz results
 0773. 📚 docs: document token refresh logic
+0981. 🚀 perf: lazy-load components
