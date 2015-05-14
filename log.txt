@@ -178,3 +178,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0830. 🎨 style: apply consistent indentation
 0558. ✨ feat: enable dark mode toggle
+0337. 📚 docs: document token refresh logic
