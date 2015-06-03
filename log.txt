@@ -184,3 +184,4 @@
 0329. 📚 docs: update README with setup steps
 0485. 📚 docs: update README with setup steps
 0511. 🐛 fix: fix broken CSS in mobile view
+0489. 🔧 refactor: organize models into subfolders
