@@ -189,3 +189,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0206. 🐛 fix: handle 500 error in quiz API
 0809. ♻️ chore: rename env.example
+0259. 🚀 perf: lazy-load components
