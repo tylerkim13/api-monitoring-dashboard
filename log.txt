@@ -191,3 +191,4 @@
 0809. ♻️ chore: rename env.example
 0259. 🚀 perf: lazy-load components
 0572. ✨ feat: add user authentication
+0974. ✨ feat: add export to CSV option
