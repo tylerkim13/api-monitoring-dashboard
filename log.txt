@@ -195,3 +195,4 @@
 0716. ✨ feat: implement quiz timer feature
 0605. ✨ feat: support email verification
 0246. ✅ test: add integration test for /submit endpoint
+0611. ✅ test: test user registration edge cases
