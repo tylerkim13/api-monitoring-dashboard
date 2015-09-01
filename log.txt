@@ -206,3 +206,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0949. 📚 docs: write FAQ section
 0030. 🐛 fix: fix null pointer exception on login
+0730. ✅ test: test user registration edge cases
