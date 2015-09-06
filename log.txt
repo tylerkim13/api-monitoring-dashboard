@@ -207,3 +207,4 @@
 0949. 📚 docs: write FAQ section
 0030. 🐛 fix: fix null pointer exception on login
 0730. ✅ test: test user registration edge cases
+0076. 🎨 style: reformat files with black
