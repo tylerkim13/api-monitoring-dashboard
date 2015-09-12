@@ -209,3 +209,4 @@
 0730. ✅ test: test user registration edge cases
 0076. 🎨 style: reformat files with black
 0665. ♻️ chore: update .gitignore
+0549. ✨ feat: enable dark mode toggle
