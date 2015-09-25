@@ -210,3 +210,4 @@
 0076. 🎨 style: reformat files with black
 0665. ♻️ chore: update .gitignore
 0549. ✨ feat: enable dark mode toggle
+0233. 🚀 perf: lazy-load components
