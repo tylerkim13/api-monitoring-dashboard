@@ -212,3 +212,4 @@
 0549. ✨ feat: enable dark mode toggle
 0233. 🚀 perf: lazy-load components
 0591. ♻️ chore: clean up unused files
+0552. 🐛 fix: fix null pointer exception on login
