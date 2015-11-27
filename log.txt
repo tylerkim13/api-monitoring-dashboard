@@ -225,3 +225,4 @@
 0527. 🎨 style: remove trailing whitespace
 0281. ✨ feat: support email verification
 0001. 🚀 perf: cache repeated calculations
+0124. 🎨 style: reformat files with black
