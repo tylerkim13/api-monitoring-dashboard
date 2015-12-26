@@ -231,3 +231,4 @@
 0838. 🎨 style: standardize quote style
 0616. 🚀 perf: lazy-load components
 0181. ♻️ chore: add GitHub actions badge
+0673. 🐛 fix: correct typo in registration form
