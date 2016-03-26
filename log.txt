@@ -245,3 +245,4 @@
 0916. ♻️ chore: bump dependencies
 0537. 🔧 refactor: remove redundant code blocks
 0967. ♻️ chore: add GitHub actions badge
+0195. 📚 docs: clarify environment setup
