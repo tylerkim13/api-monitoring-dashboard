@@ -259,3 +259,4 @@
 0460. 📚 docs: write FAQ section
 0580. ♻️ chore: bump dependencies
 0101. 📚 docs: clarify environment setup
+0961. 📚 docs: add API usage examples
