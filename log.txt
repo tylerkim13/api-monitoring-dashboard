@@ -262,3 +262,4 @@
 0961. 📚 docs: add API usage examples
 0589. 🐛 fix: fix broken CSS in mobile view
 0113. ✨ feat: add user authentication
+0828. ♻️ chore: add GitHub actions badge
