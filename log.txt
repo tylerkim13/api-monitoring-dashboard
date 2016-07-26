@@ -270,3 +270,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0244. ✨ feat: add export to CSV option
 0547. 📚 docs: write FAQ section
+0320. 📚 docs: update README with setup steps
