@@ -272,3 +272,4 @@
 0547. 📚 docs: write FAQ section
 0320. 📚 docs: update README with setup steps
 0247. 🎨 style: apply consistent indentation
+0066. 🔧 refactor: clean up auth middleware
