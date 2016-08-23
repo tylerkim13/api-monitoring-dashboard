@@ -280,3 +280,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0909. 🔧 refactor: organize models into subfolders
 0631. ✨ feat: create admin dashboard
+0649. 📚 docs: update README with setup steps
