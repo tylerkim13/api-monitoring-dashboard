@@ -282,3 +282,4 @@
 0631. ✨ feat: create admin dashboard
 0649. 📚 docs: update README with setup steps
 0640. ♻️ chore: bump dependencies
+0973. 🔧 refactor: organize models into subfolders
