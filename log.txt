@@ -287,3 +287,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0693. 📚 docs: add API usage examples
 0960. ✅ test: increase coverage on auth module
+0132. ✅ test: add unit test for quiz service
