@@ -294,3 +294,4 @@
 0594. 🎨 style: reformat files with black
 0090. ✅ test: increase coverage on auth module
 0273. 🚀 perf: reduce image load time
+0606. 📚 docs: improve code comments in utils
