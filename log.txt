@@ -302,3 +302,4 @@
 0861. ♻️ chore: clean up unused files
 0524. ♻️ chore: rename env.example
 0401. 🚀 perf: reduce image load time
+0266. 🔧 refactor: remove redundant code blocks
