@@ -306,3 +306,4 @@
 0541. 🐛 fix: correct typo in registration form
 0199. ✨ feat: create admin dashboard
 0364. 🐛 fix: resolve issue with date parsing
+0221. ✨ feat: add user authentication
