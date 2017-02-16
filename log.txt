@@ -318,3 +318,4 @@
 0393. 🚀 perf: lazy-load components
 0920. 🔧 refactor: organize models into subfolders
 0880. 🐛 fix: fix broken CSS in mobile view
+0505. ♻️ chore: add GitHub actions badge
