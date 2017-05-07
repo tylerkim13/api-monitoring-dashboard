@@ -335,3 +335,4 @@
 0345. 📚 docs: document token refresh logic
 0523. ♻️ chore: bump dependencies
 0173. 🚀 perf: cache repeated calculations
+0565. ♻️ chore: add GitHub actions badge
