@@ -338,3 +338,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0294. 🐛 fix: prevent crash on empty input
 0020. ✅ test: add integration test for /submit endpoint
+0028. 🎨 style: standardize quote style
