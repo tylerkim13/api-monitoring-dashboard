@@ -353,3 +353,4 @@
 0198. 📚 docs: clarify environment setup
 0483. 📚 docs: update README with setup steps
 1000. ✅ test: increase coverage on auth module
+0252. 🎨 style: remove trailing whitespace
