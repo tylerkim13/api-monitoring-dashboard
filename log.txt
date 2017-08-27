@@ -355,3 +355,4 @@
 1000. ✅ test: increase coverage on auth module
 0252. 🎨 style: remove trailing whitespace
 0346. ✅ test: mock database connection in test suite
+0586. 🎨 style: remove trailing whitespace
