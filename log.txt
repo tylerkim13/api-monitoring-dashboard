@@ -362,3 +362,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0254. 🚀 perf: reduce image load time
 0582. ✨ feat: add export to CSV option
+0746. ♻️ chore: add GitHub actions badge
