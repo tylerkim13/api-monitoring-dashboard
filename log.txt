@@ -367,3 +367,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0980. 🎨 style: reformat files with black
 0387. ✨ feat: enable dark mode toggle
+0282. 🔧 refactor: remove redundant code blocks
