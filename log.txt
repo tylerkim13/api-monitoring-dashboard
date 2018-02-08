@@ -383,3 +383,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0732. ♻️ chore: add GitHub actions badge
 0257. 📚 docs: clarify environment setup
+0037. 🐛 fix: correct typo in registration form
