@@ -389,3 +389,4 @@
 0834. ✅ test: increase coverage on auth module
 0260. ✨ feat: create admin dashboard
 0754. 🐛 fix: handle 500 error in quiz API
+0036. 🔧 refactor: clean up auth middleware
