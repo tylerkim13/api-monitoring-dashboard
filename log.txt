@@ -392,3 +392,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0766. 🎨 style: reformat files with black
 0184. 📚 docs: improve code comments in utils
+0366. 🔧 refactor: remove redundant code blocks
