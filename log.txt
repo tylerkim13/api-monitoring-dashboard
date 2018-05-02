@@ -398,3 +398,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0602. 🔧 refactor: remove redundant code blocks
 0406. ✨ feat: add export to CSV option
+0374. 🎨 style: standardize quote style
