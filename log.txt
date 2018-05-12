@@ -403,3 +403,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0956. 📚 docs: clarify environment setup
 0479. 🐛 fix: fix null pointer exception on login
+0010. ✨ feat: add user authentication
