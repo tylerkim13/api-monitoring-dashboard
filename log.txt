@@ -410,3 +410,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0316. 🐛 fix: fix broken CSS in mobile view
 0365. 🚀 perf: reduce image load time
+0299. 🐛 fix: resolve issue with date parsing
