@@ -414,3 +414,4 @@
 0112. ✨ feat: enable dark mode toggle
 0540. ♻️ chore: add GitHub actions badge
 0304. 🔧 refactor: remove redundant code blocks
+0663. 🚀 perf: reduce image load time
