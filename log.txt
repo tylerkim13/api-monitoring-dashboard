@@ -415,3 +415,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0304. 🔧 refactor: remove redundant code blocks
 0663. 🚀 perf: reduce image load time
+0919. 🚀 perf: optimize database query for quiz results
