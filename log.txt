@@ -424,3 +424,4 @@
 0651. ✨ feat: enable dark mode toggle
 0008. 🚀 perf: reduce image load time
 0862. ♻️ chore: bump dependencies
+0382. 📚 docs: improve code comments in utils
