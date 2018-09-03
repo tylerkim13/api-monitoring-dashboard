@@ -428,3 +428,4 @@
 0778. 📚 docs: write FAQ section
 0196. ♻️ chore: bump dependencies
 0662. ♻️ chore: clean up unused files
+0792. 🎨 style: standardize quote style
