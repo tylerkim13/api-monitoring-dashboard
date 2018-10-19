@@ -440,3 +440,4 @@
 0326. 🚀 perf: cache repeated calculations
 0193. 🚀 perf: optimize database query for quiz results
 0158. 📚 docs: clarify environment setup
+0618. ✨ feat: support email verification
