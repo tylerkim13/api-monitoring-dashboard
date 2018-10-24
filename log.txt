@@ -441,3 +441,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0158. 📚 docs: clarify environment setup
 0618. ✨ feat: support email verification
+0003. ✅ test: increase coverage on auth module
