@@ -443,3 +443,4 @@
 0618. ✨ feat: support email verification
 0003. ✅ test: increase coverage on auth module
 0939. 📚 docs: update README with setup steps
+0341. 🚀 perf: lazy-load components
