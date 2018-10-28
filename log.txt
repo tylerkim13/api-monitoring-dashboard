@@ -445,3 +445,4 @@
 0939. 📚 docs: update README with setup steps
 0341. 🚀 perf: lazy-load components
 0959. 🐛 fix: fix null pointer exception on login
+0097. 🐛 fix: handle 500 error in quiz API
