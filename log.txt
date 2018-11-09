@@ -449,3 +449,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0035. ✅ test: increase coverage on auth module
 0239. 🎨 style: standardize quote style
+0940. 📚 docs: document token refresh logic
