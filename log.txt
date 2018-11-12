@@ -450,3 +450,4 @@
 0035. ✅ test: increase coverage on auth module
 0239. 🎨 style: standardize quote style
 0940. 📚 docs: document token refresh logic
+0068. 🐛 fix: fix null pointer exception on login
