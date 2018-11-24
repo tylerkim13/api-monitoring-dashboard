@@ -454,3 +454,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0194. 🎨 style: standardize quote style
 0191. 🔧 refactor: refactor quiz grading logic
+0639. 🐛 fix: correct typo in registration form
