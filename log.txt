@@ -462,3 +462,4 @@
 0390. 🎨 style: standardize quote style
 0094. 📚 docs: document token refresh logic
 0042. 📚 docs: document token refresh logic
+0737. 🐛 fix: handle 500 error in quiz API
