@@ -464,3 +464,4 @@
 0042. 📚 docs: document token refresh logic
 0737. 🐛 fix: handle 500 error in quiz API
 0653. 🐛 fix: prevent crash on empty input
+0192. ✨ feat: enable dark mode toggle
