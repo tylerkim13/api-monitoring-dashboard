@@ -468,3 +468,4 @@
 0111. 📚 docs: update README with setup steps
 0190. 🎨 style: rename variables for clarity
 0405. ✅ test: mock database connection in test suite
+0358. 🚀 perf: reduce image load time
