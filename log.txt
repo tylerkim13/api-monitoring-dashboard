@@ -474,3 +474,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0275. 🎨 style: standardize quote style
 0893. 🐛 fix: handle 500 error in quiz API
+0115. 🚀 perf: reduce image load time
