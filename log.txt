@@ -479,3 +479,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0069. 🎨 style: rename variables for clarity
 0824. 🚀 perf: lazy-load components
+0896. 🚀 perf: reduce image load time
