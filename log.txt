@@ -483,3 +483,4 @@
 0237. 🎨 style: standardize quote style
 0911. ✅ test: increase coverage on auth module
 0473. 📚 docs: write FAQ section
+0451. ✨ feat: support email verification
