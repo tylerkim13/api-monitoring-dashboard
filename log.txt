@@ -490,3 +490,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0888. 🚀 perf: lazy-load components
 0183. 🔧 refactor: split large controller into smaller functions
+0557. 🔧 refactor: clean up auth middleware
