@@ -521,3 +521,4 @@
 0269. ✅ test: test user registration edge cases
 0822. 🔧 refactor: remove redundant code blocks
 0157. ✅ test: mock database connection in test suite
+0667. ✨ feat: add export to CSV option
