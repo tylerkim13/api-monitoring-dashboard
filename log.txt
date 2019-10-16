@@ -530,3 +530,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0091. ✨ feat: add user authentication
 0262. 🎨 style: remove trailing whitespace
+0013. ✅ test: increase coverage on auth module
