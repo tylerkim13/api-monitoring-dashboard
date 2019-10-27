@@ -531,3 +531,4 @@
 0091. ✨ feat: add user authentication
 0262. 🎨 style: remove trailing whitespace
 0013. ✅ test: increase coverage on auth module
+0674. 🔧 refactor: split large controller into smaller functions
