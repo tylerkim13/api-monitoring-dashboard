@@ -532,3 +532,4 @@
 0262. 🎨 style: remove trailing whitespace
 0013. ✅ test: increase coverage on auth module
 0674. 🔧 refactor: split large controller into smaller functions
+0187. ✨ feat: support email verification
