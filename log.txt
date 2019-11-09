@@ -536,3 +536,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0837. 🚀 perf: cache repeated calculations
 0568. 🐛 fix: handle 500 error in quiz API
+0727. ♻️ chore: add GitHub actions badge
