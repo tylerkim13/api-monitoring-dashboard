@@ -543,3 +543,4 @@
 0336. ✨ feat: add export to CSV option
 0102. ✨ feat: support email verification
 0702. ✨ feat: add user authentication
+0847. ♻️ chore: clean up unused files
