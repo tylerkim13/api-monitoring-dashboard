@@ -544,3 +544,4 @@
 0102. ✨ feat: support email verification
 0702. ✨ feat: add user authentication
 0847. ♻️ chore: clean up unused files
+0379. ✨ feat: support email verification
