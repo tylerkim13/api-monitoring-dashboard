@@ -546,3 +546,4 @@
 0847. ♻️ chore: clean up unused files
 0379. ✨ feat: support email verification
 0576. ♻️ chore: update .gitignore
+0748. 🚀 perf: optimize database query for quiz results
