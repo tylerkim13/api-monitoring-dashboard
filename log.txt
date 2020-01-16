@@ -551,3 +551,4 @@
 0048. 📚 docs: update README with setup steps
 0493. ✨ feat: add user authentication
 0597. 🚀 perf: cache repeated calculations
+0065. ✅ test: add integration test for /submit endpoint
