@@ -552,3 +552,4 @@
 0493. ✨ feat: add user authentication
 0597. 🚀 perf: cache repeated calculations
 0065. ✅ test: add integration test for /submit endpoint
+0607. 🐛 fix: prevent crash on empty input
