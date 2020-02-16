@@ -558,3 +558,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0938. 🎨 style: rename variables for clarity
 0116. ✨ feat: support email verification
+0439. 🐛 fix: correct typo in registration form
