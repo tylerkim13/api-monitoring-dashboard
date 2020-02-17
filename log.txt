@@ -560,3 +560,4 @@
 0116. ✨ feat: support email verification
 0439. 🐛 fix: correct typo in registration form
 0333. 🚀 perf: cache repeated calculations
+0661. ✅ test: add integration test for /submit endpoint
