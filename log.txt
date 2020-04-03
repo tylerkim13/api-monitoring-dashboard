@@ -570,3 +570,4 @@
 0781. 🚀 perf: reduce image load time
 0993. ✨ feat: implement quiz timer feature
 0482. ✨ feat: add export to CSV option
+0051. ✨ feat: enable dark mode toggle
