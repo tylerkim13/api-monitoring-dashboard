@@ -571,3 +571,4 @@
 0993. ✨ feat: implement quiz timer feature
 0482. ✨ feat: add export to CSV option
 0051. ✨ feat: enable dark mode toggle
+0106. 🎨 style: reformat files with black
