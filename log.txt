@@ -585,3 +585,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0532. 🔧 refactor: split large controller into smaller functions
 0842. 🎨 style: remove trailing whitespace
+0122. ✨ feat: support email verification
