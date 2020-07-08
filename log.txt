@@ -587,3 +587,4 @@
 0842. 🎨 style: remove trailing whitespace
 0122. ✨ feat: support email verification
 0952. 🔧 refactor: split large controller into smaller functions
+0692. ✅ test: add integration test for /submit endpoint
