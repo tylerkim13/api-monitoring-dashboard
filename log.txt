@@ -591,3 +591,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0067. 🔧 refactor: remove redundant code blocks
 0801. ✨ feat: enable dark mode toggle
+0109. 🚀 perf: lazy-load components
