@@ -595,3 +595,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0738. 🐛 fix: prevent crash on empty input
 0347. ♻️ chore: update .gitignore
+0535. 📚 docs: write FAQ section
