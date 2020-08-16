@@ -596,3 +596,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0347. ♻️ chore: update .gitignore
 0535. 📚 docs: write FAQ section
+0657. 🎨 style: standardize quote style
