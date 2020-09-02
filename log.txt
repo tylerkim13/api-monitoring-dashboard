@@ -599,3 +599,4 @@
 0657. 🎨 style: standardize quote style
 0672. 🐛 fix: fix broken CSS in mobile view
 0585. 🚀 perf: lazy-load components
+0422. 🔧 refactor: organize models into subfolders
