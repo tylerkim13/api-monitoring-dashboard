@@ -606,3 +606,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0794. ♻️ chore: clean up unused files
 0148. 🔧 refactor: organize models into subfolders
+0573. ✅ test: add integration test for /submit endpoint
