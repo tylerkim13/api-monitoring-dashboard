@@ -609,3 +609,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0764. ✨ feat: add user authentication
 0234. ♻️ chore: rename env.example
+0513. ♻️ chore: bump dependencies
