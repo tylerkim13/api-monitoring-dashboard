@@ -610,3 +610,4 @@
 0764. ✨ feat: add user authentication
 0234. ♻️ chore: rename env.example
 0513. ♻️ chore: bump dependencies
+0563. 📚 docs: clarify environment setup
