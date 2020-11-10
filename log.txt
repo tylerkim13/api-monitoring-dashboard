@@ -611,3 +611,4 @@
 0234. ♻️ chore: rename env.example
 0513. ♻️ chore: bump dependencies
 0563. 📚 docs: clarify environment setup
+0685. ✅ test: test user registration edge cases
