@@ -612,3 +612,4 @@
 0513. ♻️ chore: bump dependencies
 0563. 📚 docs: clarify environment setup
 0685. ✅ test: test user registration edge cases
+0889. 🚀 perf: lazy-load components
