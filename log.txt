@@ -623,3 +623,4 @@
 0002. 🚀 perf: cache repeated calculations
 0554. 📚 docs: improve code comments in utils
 0471. ✨ feat: support email verification
+0903. ✅ test: mock database connection in test suite
