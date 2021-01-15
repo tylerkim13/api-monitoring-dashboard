@@ -625,3 +625,4 @@
 0471. ✨ feat: support email verification
 0903. ✅ test: mock database connection in test suite
 0053. ✅ test: increase coverage on auth module
+0308. 🚀 perf: reduce image load time
