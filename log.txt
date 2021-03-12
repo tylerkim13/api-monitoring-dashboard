@@ -635,3 +635,4 @@
 0455. ♻️ chore: clean up unused files
 0016. 🎨 style: apply consistent indentation
 0230. ✨ feat: create admin dashboard
+0953. 🎨 style: remove trailing whitespace
