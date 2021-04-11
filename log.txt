@@ -641,3 +641,4 @@
 0706. ✨ feat: support email verification
 0927. ♻️ chore: bump dependencies
 0538. 🐛 fix: fix broken CSS in mobile view
+0494. 🎨 style: rename variables for clarity
