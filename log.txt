@@ -651,3 +651,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0755. 🚀 perf: cache repeated calculations
 0516. ✅ test: add unit test for quiz service
+0628. ♻️ chore: add GitHub actions badge
