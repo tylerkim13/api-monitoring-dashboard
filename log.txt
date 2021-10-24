@@ -674,3 +674,4 @@
 0868. ✅ test: add unit test for quiz service
 0300. ✨ feat: add export to CSV option
 0659. 📚 docs: add API usage examples
+0760. 🐛 fix: resolve issue with date parsing
