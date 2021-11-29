@@ -680,3 +680,4 @@
 0669. ✨ feat: enable dark mode toggle
 0625. 🐛 fix: handle 500 error in quiz API
 0136. 🚀 perf: lazy-load components
+0885. ♻️ chore: update .gitignore
