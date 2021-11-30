@@ -681,3 +681,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0136. 🚀 perf: lazy-load components
 0885. ♻️ chore: update .gitignore
+0772. 🐛 fix: fix null pointer exception on login
