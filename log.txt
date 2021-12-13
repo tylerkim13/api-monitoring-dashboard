@@ -683,3 +683,4 @@
 0885. ♻️ chore: update .gitignore
 0772. 🐛 fix: fix null pointer exception on login
 0475. 🔧 refactor: clean up auth middleware
+0936. 🔧 refactor: organize models into subfolders
