@@ -687,3 +687,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0005. ✅ test: add unit test for quiz service
 0898. 🐛 fix: fix broken CSS in mobile view
+0354. 📚 docs: add API usage examples
