@@ -691,3 +691,4 @@
 0114. ♻️ chore: update .gitignore
 0211. 🔧 refactor: remove redundant code blocks
 0301. 🎨 style: apply consistent indentation
+0798. 🚀 perf: reduce image load time
