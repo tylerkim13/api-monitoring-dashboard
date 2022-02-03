@@ -696,3 +696,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0208. 🔧 refactor: clean up auth middleware
 0361. ✨ feat: support email verification
+0403. ✅ test: mock database connection in test suite
