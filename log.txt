@@ -704,3 +704,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0646. ✅ test: test user registration edge cases
 0123. ✨ feat: implement quiz timer feature
+0165. 🎨 style: remove trailing whitespace
