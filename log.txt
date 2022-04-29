@@ -713,3 +713,4 @@
 0444. ✅ test: add unit test for quiz service
 0313. 🎨 style: apply consistent indentation
 0921. 🐛 fix: correct typo in registration form
+0901. ✨ feat: add user authentication
