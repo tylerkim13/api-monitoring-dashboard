@@ -721,3 +721,4 @@
 0117. ✅ test: increase coverage on auth module
 0248. 🐛 fix: handle 500 error in quiz API
 0994. 🚀 perf: reduce image load time
+0788. 📚 docs: add API usage examples
