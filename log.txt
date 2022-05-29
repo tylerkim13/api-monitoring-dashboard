@@ -723,3 +723,4 @@
 0994. 🚀 perf: reduce image load time
 0788. 📚 docs: add API usage examples
 0056. ♻️ chore: rename env.example
+0278. 🔧 refactor: clean up auth middleware
