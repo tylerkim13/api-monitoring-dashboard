@@ -727,3 +727,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0317. ✅ test: test user registration edge cases
 0555. ✨ feat: create admin dashboard
+0168. ✅ test: add integration test for /submit endpoint
