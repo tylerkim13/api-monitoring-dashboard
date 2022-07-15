@@ -733,3 +733,4 @@
 0989. 📚 docs: write FAQ section
 0941. 🚀 perf: cache repeated calculations
 0241. 📚 docs: add API usage examples
+0054. ♻️ chore: update .gitignore
