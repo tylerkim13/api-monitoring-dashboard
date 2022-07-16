@@ -734,3 +734,4 @@
 0941. 🚀 perf: cache repeated calculations
 0241. 📚 docs: add API usage examples
 0054. ♻️ chore: update .gitignore
+0140. 🐛 fix: handle 500 error in quiz API
