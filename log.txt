@@ -740,3 +740,4 @@
 0656. 🎨 style: apply consistent indentation
 0741. 🎨 style: apply consistent indentation
 0448. 🐛 fix: correct typo in registration form
+0177. 📚 docs: add API usage examples
