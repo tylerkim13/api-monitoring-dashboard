@@ -744,3 +744,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0790. 📚 docs: write FAQ section
 0472. 🐛 fix: fix null pointer exception on login
+0517. ✅ test: mock database connection in test suite
