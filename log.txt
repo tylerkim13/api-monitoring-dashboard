@@ -755,3 +755,4 @@
 0360. ✨ feat: add export to CSV option
 0925. ✨ feat: add export to CSV option
 0622. 🎨 style: apply consistent indentation
+0440. 📚 docs: update README with setup steps
