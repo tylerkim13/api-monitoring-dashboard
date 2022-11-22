@@ -764,3 +764,4 @@
 0031. 📚 docs: document token refresh logic
 0770. ♻️ chore: rename env.example
 0789. ✨ feat: create admin dashboard
+0996. ✅ test: test user registration edge cases
