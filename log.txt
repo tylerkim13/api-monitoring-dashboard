@@ -776,3 +776,4 @@
 0141. 📚 docs: document token refresh logic
 0870. ♻️ chore: clean up unused files
 0694. 🎨 style: rename variables for clarity
+0077. ♻️ chore: rename env.example
