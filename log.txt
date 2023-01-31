@@ -782,3 +782,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0596. ♻️ chore: update .gitignore
 0875. ✅ test: increase coverage on auth module
+0556. ✨ feat: support email verification
