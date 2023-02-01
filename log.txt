@@ -783,3 +783,4 @@
 0596. ♻️ chore: update .gitignore
 0875. ✅ test: increase coverage on auth module
 0556. ✨ feat: support email verification
+0496. ✅ test: add integration test for /submit endpoint
