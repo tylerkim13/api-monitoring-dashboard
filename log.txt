@@ -789,3 +789,4 @@
 0108. 🎨 style: remove trailing whitespace
 0864. 🐛 fix: correct typo in registration form
 0997. ✅ test: increase coverage on auth module
+0502. 📚 docs: update README with setup steps
