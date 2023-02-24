@@ -791,3 +791,4 @@
 0997. ✅ test: increase coverage on auth module
 0502. 📚 docs: update README with setup steps
 0383. 🐛 fix: fix broken CSS in mobile view
+0682. ♻️ chore: rename env.example
