@@ -797,3 +797,4 @@
 0100. ♻️ chore: update .gitignore
 0947. 📚 docs: write FAQ section
 0328. 🐛 fix: resolve issue with date parsing
+0372. ✨ feat: add user authentication
