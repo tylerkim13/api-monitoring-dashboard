@@ -799,3 +799,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0372. ✨ feat: add user authentication
 0583. ✅ test: increase coverage on auth module
+0811. 🎨 style: reformat files with black
