@@ -813,3 +813,4 @@
 0637. 🎨 style: apply consistent indentation
 0351. ✨ feat: add export to CSV option
 0161. ✨ feat: create admin dashboard
+0512. 🚀 perf: reduce image load time
