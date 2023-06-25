@@ -814,3 +814,4 @@
 0351. ✨ feat: add export to CSV option
 0161. ✨ feat: create admin dashboard
 0512. 🚀 perf: reduce image load time
+0526. ✨ feat: add user authentication
