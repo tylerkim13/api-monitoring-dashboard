@@ -815,3 +815,4 @@
 0161. ✨ feat: create admin dashboard
 0512. 🚀 perf: reduce image load time
 0526. ✨ feat: add user authentication
+0860. 🔧 refactor: organize models into subfolders
