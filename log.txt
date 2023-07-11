@@ -816,3 +816,4 @@
 0512. 🚀 perf: reduce image load time
 0526. ✨ feat: add user authentication
 0860. 🔧 refactor: organize models into subfolders
+0827. 🚀 perf: optimize database query for quiz results
