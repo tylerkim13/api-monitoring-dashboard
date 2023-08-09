@@ -823,3 +823,4 @@
 0215. 🎨 style: reformat files with black
 0212. 🎨 style: standardize quote style
 0802. 🔧 refactor: remove redundant code blocks
+0986. 📚 docs: document token refresh logic
