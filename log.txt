@@ -828,3 +828,4 @@
 0876. ♻️ chore: rename env.example
 0668. 🚀 perf: optimize database query for quiz results
 0305. ✨ feat: enable dark mode toggle
+0442. 🎨 style: standardize quote style
