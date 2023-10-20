@@ -836,3 +836,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0104. 🎨 style: apply consistent indentation
 0083. 🎨 style: reformat files with black
+0823. ✨ feat: add user authentication
