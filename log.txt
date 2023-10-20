@@ -835,3 +835,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0832. 🔧 refactor: remove redundant code blocks
 0104. 🎨 style: apply consistent indentation
+0083. 🎨 style: reformat files with black
