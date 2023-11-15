@@ -841,3 +841,4 @@
 0922. 📚 docs: write FAQ section
 0073. 🔧 refactor: split large controller into smaller functions
 0025. 🚀 perf: optimize database query for quiz results
+0225. 🚀 perf: reduce image load time
