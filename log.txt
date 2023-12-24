@@ -853,3 +853,4 @@
 0203. 🚀 perf: lazy-load components
 0381. ♻️ chore: clean up unused files
 0464. 🎨 style: remove trailing whitespace
+0882. 🚀 perf: optimize database query for quiz results
