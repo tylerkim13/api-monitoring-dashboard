@@ -859,3 +859,4 @@
 0551. 📚 docs: write FAQ section
 0987. ✨ feat: create admin dashboard
 0258. 🐛 fix: prevent crash on empty input
+0151. ✅ test: add unit test for quiz service
