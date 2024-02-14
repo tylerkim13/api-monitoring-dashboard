@@ -865,3 +865,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0884. 📚 docs: clarify environment setup
 0848. 📚 docs: update README with setup steps
+0687. 🎨 style: remove trailing whitespace
