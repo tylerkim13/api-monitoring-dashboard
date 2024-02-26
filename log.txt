@@ -872,3 +872,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0906. 📚 docs: add API usage examples
 0529. 📚 docs: write FAQ section
+0595. ✨ feat: enable dark mode toggle
