@@ -875,3 +875,4 @@
 0595. ✨ feat: enable dark mode toggle
 0268. 🐛 fix: prevent crash on empty input
 0530. 🔧 refactor: refactor quiz grading logic
+0163. ✨ feat: implement quiz timer feature
