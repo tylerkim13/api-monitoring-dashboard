@@ -876,3 +876,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0530. 🔧 refactor: refactor quiz grading logic
 0163. ✨ feat: implement quiz timer feature
+0307. ✨ feat: support email verification
