@@ -879,3 +879,4 @@
 0307. ✨ feat: support email verification
 0744. 🔧 refactor: remove redundant code blocks
 0288. 🔧 refactor: refactor quiz grading logic
+0055. 📚 docs: update README with setup steps
