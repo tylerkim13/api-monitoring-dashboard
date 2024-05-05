@@ -886,3 +886,4 @@
 0290. ✅ test: test user registration edge cases
 0029. 🚀 perf: lazy-load components
 0846. ✨ feat: implement quiz timer feature
+0392. 🎨 style: remove trailing whitespace
