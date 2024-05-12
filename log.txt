@@ -889,3 +889,4 @@
 0392. 🎨 style: remove trailing whitespace
 0410. 🎨 style: reformat files with black
 0238. 🎨 style: apply consistent indentation
+0969. ✨ feat: create admin dashboard
