@@ -891,3 +891,4 @@
 0238. 🎨 style: apply consistent indentation
 0969. ✨ feat: create admin dashboard
 0715. ✨ feat: create admin dashboard
+0207. 🐛 fix: prevent crash on empty input
