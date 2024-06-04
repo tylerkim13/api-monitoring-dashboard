@@ -895,3 +895,4 @@
 0577. ✨ feat: implement quiz timer feature
 0092. 🚀 perf: reduce image load time
 0231. 🔧 refactor: clean up auth middleware
+0331. 🐛 fix: fix broken CSS in mobile view
