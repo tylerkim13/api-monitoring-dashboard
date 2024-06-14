@@ -901,3 +901,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0481. ✅ test: add unit test for quiz service
 0705. 🔧 refactor: refactor quiz grading logic
+0222. 🐛 fix: handle 500 error in quiz API
