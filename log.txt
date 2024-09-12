@@ -920,3 +920,4 @@
 0518. ✨ feat: support email verification
 0388. 🎨 style: reformat files with black
 0411. ✅ test: add unit test for quiz service
+0394. 🚀 perf: lazy-load components
