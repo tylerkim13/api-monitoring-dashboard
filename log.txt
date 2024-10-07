@@ -927,3 +927,4 @@
 0119. 📚 docs: improve code comments in utils
 0407. 🚀 perf: cache repeated calculations
 0032. 🎨 style: apply consistent indentation
+0877. 🚀 perf: optimize database query for quiz results
