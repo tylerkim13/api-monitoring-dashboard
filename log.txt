@@ -928,3 +928,4 @@
 0407. 🚀 perf: cache repeated calculations
 0032. 🎨 style: apply consistent indentation
 0877. 🚀 perf: optimize database query for quiz results
+0441. 📚 docs: add API usage examples
