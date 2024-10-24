@@ -933,3 +933,4 @@
 0519. 📚 docs: document token refresh logic
 0332. 🎨 style: standardize quote style
 0695. ✨ feat: create admin dashboard
+0902. ✨ feat: enable dark mode toggle
