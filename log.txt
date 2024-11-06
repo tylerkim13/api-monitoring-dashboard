@@ -935,3 +935,4 @@
 0695. ✨ feat: create admin dashboard
 0902. ✨ feat: enable dark mode toggle
 0984. ♻️ chore: clean up unused files
+0769. ✨ feat: create admin dashboard
