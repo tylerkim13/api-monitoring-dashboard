@@ -939,3 +939,4 @@
 0362. 📚 docs: add API usage examples
 0970. ♻️ chore: update .gitignore
 0339. 📚 docs: update README with setup steps
+0024. 📚 docs: write FAQ section
