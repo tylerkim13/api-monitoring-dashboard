@@ -942,3 +942,4 @@
 0024. 📚 docs: write FAQ section
 0757. 🔧 refactor: remove redundant code blocks
 0553. 🐛 fix: correct typo in registration form
+0180. ✨ feat: add export to CSV option
