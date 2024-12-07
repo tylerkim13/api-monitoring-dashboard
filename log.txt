@@ -944,3 +944,4 @@
 0553. 🐛 fix: correct typo in registration form
 0180. ✨ feat: add export to CSV option
 0855. 🎨 style: reformat files with black
+0593. 🐛 fix: correct typo in registration form
