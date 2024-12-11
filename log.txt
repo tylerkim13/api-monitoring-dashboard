@@ -946,3 +946,4 @@
 0855. 🎨 style: reformat files with black
 0593. 🐛 fix: correct typo in registration form
 0323. 📚 docs: clarify environment setup
+0085. ✨ feat: support email verification
