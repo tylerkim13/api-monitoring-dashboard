@@ -951,3 +951,4 @@
 0453. 🎨 style: standardize quote style
 0160. ♻️ chore: bump dependencies
 0431. 🎨 style: reformat files with black
+0750. 🎨 style: apply consistent indentation
