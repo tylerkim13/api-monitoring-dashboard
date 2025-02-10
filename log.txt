@@ -960,3 +960,4 @@
 0059. ♻️ chore: bump dependencies
 0735. ♻️ chore: add GitHub actions badge
 0019. ✨ feat: enable dark mode toggle
+0701. 🔧 refactor: clean up auth middleware
