@@ -959,3 +959,4 @@
 0015. ✨ feat: implement quiz timer feature
 0059. ♻️ chore: bump dependencies
 0735. ♻️ chore: add GitHub actions badge
+0019. ✨ feat: enable dark mode toggle
