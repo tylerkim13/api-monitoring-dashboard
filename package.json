@@ -1,0 +1,115 @@
+{
+  "name": "vacuum-card",
+  "version": "2.11.0",
+  "type": "module",
+  "description": "Vacuum cleaner card for Home Assistant Lovelace UI",
+  "main": "dist/vacuum-card.js",
+  "scripts": {
+    "start": "rollup -c --watch",
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix",
+    "format": "prettier --write .",
+    "build": "rollup -c",
+    "test": "npm run lint && npm run build",
+    "prepare": "husky"
+  },
+  "keywords": [
+    "home-assistant",
+    "homeassistant",
+    "hass",
+    "automation",
+    "lovelace",
+    "custom-cards",
+    "vacuum"
+  ],
+  "author": {
+    "name": "Denys Dovhan",
+    "email": "denysdovhan@gmail.com",
+    "url": "http://denysdovhan.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "custom-card-helpers": "^1.6.4",
+    "ha-template": "^1.4.0",
+    "home-assistant-js-websocket": "^9.2.1",
+    "lit": "^3.2.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/plugin-transform-runtime": "^7.23.7",
+    "@babel/preset-env": "^7.23.7",
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^28.0.3",
+    "@rollup/plugin-image": "^3.0.3",
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-replace": "^6.0.2",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@semantic-release/git": "^10.0.1",
+    "@types/lodash": "^4.14.202",
+    "@typescript-eslint/eslint-plugin": "^8.25.0",
+    "@typescript-eslint/parser": "^8.25.0",
+    "eslint": "^9.21.0",
+    "eslint-config-prettier": "^10.0.2",
+    "eslint-plugin-import": "^2.26.0",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "postcss": "^8.4.33",
+    "postcss-preset-env": "^10.1.5",
+    "prettier": "^3.1.1",
+    "rollup": "^4.9.4",
+    "rollup-plugin-minify-html-literals-v3": "^1.2.6",
+    "rollup-plugin-postcss": "^4.0.2",
+    "rollup-plugin-postcss-lit": "^2.0.0",
+    "rollup-plugin-serve": "^3.0.0",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "semantic-release": "^23.0.0",
+    "typescript": "^5.3.3"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not dead"
+  ],
+  "lint-staged": {
+    "*.js": "eslint --fix",
+    "**/*": "prettier --write --ignore-unknown"
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "release": {
+    "branches": [
+      "main"
+    ],
+    "plugins": [
+      [
+        "@semantic-release/commit-analyzer",
+        {
+          "preset": "angular",
+          "releaseRules": [
+            {
+              "type": "chore",
+              "scope": "deps",
+              "release": "patch"
+            }
+          ]
+        }
+      ],
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/npm",
+      [
+        "@semantic-release/github",
+        {
+          "assets": [
+            {
+              "path": "dist/vacuum-card.js",
+              "label": "vacuum-card.js"
+            }
+          ]
+        }
+      ],
+      "@semantic-release/git"
+    ]
+  }
+}

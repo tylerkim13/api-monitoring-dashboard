@@ -1,0 +1,62 @@
+{
+  "status": {
+    "cleaning": "Nettoyage",
+    "auto": "Nettoyage Automatique",
+    "spot": "Nettoyage Localisé",
+    "edge": "Nettoyage Contours",
+    "single_room": "Nettoyage Pièce Unique",
+    "paused": "En pause",
+    "idle": "Inactif",
+    "stop": "Arrêté",
+    "charging": "En charge",
+    "returning home": "Retour à la base",
+    "returning": "Retour à la base",
+    "docked": "A la base",
+    "unknown": "Inconnu",
+    "offline": "Déconnecté"
+  },
+  "source": {
+    "gentle": "Doux",
+    "silent": "Silencieux",
+    "standard": "Standard",
+    "medium": "Moyen",
+    "turbo": "Turbo",
+    "normal": "Normal",
+    "high": "Intense"
+  },
+  "common": {
+    "name": "Vacuum Carte",
+    "description": "Vacuum carte vous permet de contrôler votre robot aspirateur.",
+    "start": "Nettoyer",
+    "continue": "Continuer",
+    "pause": "Pause",
+    "stop": "Stop",
+    "return_to_base": "Retour base",
+    "locate": "Localiser aspirateur",
+    "not_available": "L'aspirateur n'est pas disponible"
+  },
+  "error": {
+    "missing_entity": "La spécification de l'entité est requise !"
+  },
+  "warning": {
+    "actions_array": ""
+  },
+  "editor": {
+    "entity": "Entité (obligatoire)",
+    "map": "Caméra de carte (facultatif)",
+    "image": "Image (facultatif)",
+    "compact_view": "Vue compacte",
+    "compact_view_aria_label_on": "Activer la vue compacte",
+    "compact_view_aria_label_off": "Désactiver la vue compacte",
+    "show_name": "Afficher le nom",
+    "show_name_aria_label_on": "Activer affichage du nom",
+    "show_name_aria_label_off": "Désactiver affichage du nom",
+    "show_status": "Afficher l'état",
+    "show_status_aria_label_on": "Activer l'affichage de l'état",
+    "show_status_aria_label_off": "Désactiver l'affichage de l'état",
+    "show_toolbar": "Afficher la barre d'outils",
+    "show_toolbar_aria_label_on": "Activer l'affichage de la barre d'outils",
+    "show_toolbar_aria_label_off": "Désactiver l'affichage de la barre d'outils",
+    "code_only_note": "Remarque: Les options de réglage des actions et statistiques sont disponibles exclusivement en utilisant l'éditeur de code."
+  }
+}

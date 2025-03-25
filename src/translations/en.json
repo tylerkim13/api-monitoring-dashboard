@@ -1,0 +1,80 @@
+{
+  "status": {
+    "cleaning": "Cleaning",
+    "auto": "Automatic cleaning",
+    "spot": "Spot cleaning",
+    "edge": "Edge cleaning",
+    "single_room": "Single room cleaning",
+    "paused": "Paused",
+    "idle": "Idle",
+    "stop": "Stopped",
+    "charging": "Charging",
+    "returning": "Returning home",
+    "returning_home": "Returning home",
+    "docked": "Docked",
+    "unknown": "Unknown",
+    "offline": "Offline",
+    "error": "Error",
+    "charger_disconnected": "Charger disconnected",
+    "remote_control_active": "Remote control active",
+    "manual_mode": "Manual mode",
+    "shutting_down": "Shutting down",
+    "updating": "Updating",
+    "going_to_target": "Going to target",
+    "zoned_cleaning": "Zoned cleaning",
+    "segment_cleaning": "Segment cleaning"
+  },
+  "source": {
+    "gentle": "Gentle",
+    "silent": "Silent",
+    "standard": "Standard",
+    "medium": "Medium",
+    "turbo": "Turbo",
+    "normal": "Normal",
+    "max": "Max",
+    "max_plus": "Max+",
+    "high": "High",
+    "strong": "Strong",
+    "quiet": "Quiet",
+    "auto": "Auto",
+    "balanced": "Balanced",
+    "custom": "Custom",
+    "off": "Off"
+  },
+  "common": {
+    "name": "Vacuum Card",
+    "description": "Vacuum card allows you to control your robot vacuum.",
+    "start": "Clean",
+    "continue": "Continue",
+    "pause": "Pause",
+    "stop": "Stop",
+    "return_to_base": "Dock",
+    "locate": "Locate Vacuum",
+    "not_available": "Vacuum is not available"
+  },
+  "error": {
+    "invalid_config": "Invalid configuration",
+    "missing_entity": "Specifying entity is required!"
+  },
+  "warning": {
+    "actions_array": "WARNING: 'actions' is reserved to override default actions for existing buttons. If your intention was to add additional actions, use the 'shortcuts' option instead."
+  },
+  "editor": {
+    "entity": "Entity (Required)",
+    "map": "Map Camera (Optional)",
+    "image": "Image (Optional)",
+    "compact_view": "Compact View",
+    "compact_view_aria_label_on": "Toggle compact view on",
+    "compact_view_aria_label_off": "Toggle compact view off",
+    "show_name": "Show Name",
+    "show_name_aria_label_on": "Toggle display name on",
+    "show_name_aria_label_off": "Toggle display name off",
+    "show_status": "Show Status",
+    "show_status_aria_label_on": "Toggle display status on",
+    "show_status_aria_label_off": "Toggle display status off",
+    "show_toolbar": "Show Toolbar",
+    "show_toolbar_aria_label_on": "Toggle display toolbar on",
+    "show_toolbar_aria_label_off": "Toggle display toolbar off",
+    "code_only_note": "Note: Setting actions and stats options are available exclusively using Code Editor."
+  }
+}
