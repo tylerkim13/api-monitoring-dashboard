@@ -26,7 +26,7 @@ import DEFAULT_IMAGE from './vacuum.svg';
 registerTemplates();
 
 // String in the right side will be replaced by Rollup
-var PKG_VERSION = 'PKG_VERSION_VALUE';
+const PKG_VERSION = 'PKG_VERSION_VALUE';
 
 console.info(
   `%c VACUUM-CARD %c ${PKG_VERSION}`,
@@ -59,7 +59,7 @@ export class VacuumCard extends LitElement {
   }
 
   static getStubConfig(_: unknown, entities: string[]) {
-    var [vacuumEntity] = entities.filter((eid) => eid.startsWith('vacuum'));
+    const [vacuumEntity] = entities.filter((eid) => eid.startsWith('vacuum'));
 
     return {
       entity: vacuumEntity ?? '',
@@ -132,8 +132,8 @@ export class VacuumCard extends LitElement {
   }
 
   private callService(action: VacuumCardAction) {
-    var { service, service_data, target } = action;
-    var [domain, name] = service.split('.');
+    const { service, service_data, target } = action;
+    const [domain, name] = service.split('.');
     this.hass.callService(domain, name, service_data, target);
   }
 
@@ -154,7 +154,7 @@ export class VacuumCard extends LitElement {
   }
 
   private handleSpeed(e: PointerEvent): void {
-    var fan_speed = (<HTMLDivElement>e.target).getAttribute('value');
+    const fan_speed = (<HTMLDivElement>e.target).getAttribute('value');
     this.callVacuumService('set_fan_speed', { request: false }, { fan_speed });
   }
 
@@ -172,7 +172,7 @@ export class VacuumCard extends LitElement {
   }
 
   private getAttributes(entity: VacuumEntity) {
-    var { status, state } = entity.attributes;
+    const { status, state } = entity.attributes;
 
     return {
       ...entity.attributes,
@@ -181,7 +181,7 @@ export class VacuumCard extends LitElement {
   }
 
   private renderSource(): Template {
-    var { fan_speed: source, fan_speed_list: sources } = this.getAttributes(
+    const { fan_speed: source, fan_speed_list: sources } = this.getAttributes(
       this.entity,
     );
 
@@ -189,7 +189,7 @@ export class VacuumCard extends LitElement {
       return nothing;
     }
 
-    var selected = sources.indexOf(source);
+    const selected = sources.indexOf(source);
 
     return html`
       <div class="tip">
@@ -217,7 +217,7 @@ export class VacuumCard extends LitElement {
   }
 
   private renderBattery(): Template {
-    var { battery_level, battery_icon } = this.getAttributes(this.entity);
+    const { battery_level, battery_icon } = this.getAttributes(this.entity);
 
     return html`
       <div class="tip" @click="${() => this.handleMore()}">
@@ -244,7 +244,7 @@ export class VacuumCard extends LitElement {
         : nothing;
     }
 
-    var src =
+    const src =
       this.config.image === 'default' ? DEFAULT_IMAGE : this.config.image;
 
     return html`
@@ -257,10 +257,10 @@ export class VacuumCard extends LitElement {
   }
 
   private renderStats(state: VacuumEntityState): Template {
-    var statsList =
+    const statsList =
       this.config.stats[state] || this.config.stats.default || [];
 
-    var stats = statsList.map(
+    const stats = statsList.map(
       ({ entity_id, attribute, value_template, unit, subtitle }) => {
         if (!entity_id && !attribute) {
           return nothing;
@@ -278,7 +278,7 @@ export class VacuumCard extends LitElement {
           return nothing;
         }
 
-        var value = html`
+        const value = html`
           <ha-template
             hass=${this.hass}
             template=${value_template}
@@ -305,7 +305,7 @@ export class VacuumCard extends LitElement {
   }
 
   private renderName(): Template {
-    var { friendly_name } = this.getAttributes(this.entity);
+    const { friendly_name } = this.getAttributes(this.entity);
 
     if (!this.config.show_name) {
       return nothing;
@@ -315,8 +315,8 @@ export class VacuumCard extends LitElement {
   }
 
   private renderStatus(): Template {
-    var { status } = this.getAttributes(this.entity);
-    var localizedStatus =
+    const { status } = this.getAttributes(this.entity);
+    const localizedStatus =
       localize(`status.${status.toLowerCase()}`) || status;
 
     if (!this.config.show_status) {
@@ -408,9 +408,9 @@ export class VacuumCard extends LitElement {
       case 'docked':
       case 'idle':
       default: {
-        var buttons = this.config.shortcuts.map(
+        const buttons = this.config.shortcuts.map(
           ({ name, service, icon, service_data, target }) => {
-            var execute = () => {
+            const execute = () => {
               if (service) {
                 return this.callService({ service, service_data, target });
               }
@@ -423,7 +423,7 @@ export class VacuumCard extends LitElement {
           },
         );
 
-        var dockButton = html`
+        const dockButton = html`
           <ha-icon-button
             label="${localize('common.return_to_base')}"
             @click="${this.handleVacuumAction('return_to_base')}"
