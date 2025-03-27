@@ -12,7 +12,7 @@ export default function buildConfig(
     throw new Error(localize('error.missing_entity'));
   }
 
-  let actions = config.actions;
+  const actions = config.actions;
   if (actions && Array.isArray(actions)) {
     console.warn(localize('warning.actions_array'));
   }
