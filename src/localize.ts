@@ -36,7 +36,7 @@ type Translations = {
   };
 };
 
-var languages: Record<string, Translations> = {
+const languages: Record<string, Translations> = {
   ca,
   cn,
   cs,
@@ -66,14 +66,14 @@ var languages: Record<string, Translations> = {
   vi,
 };
 
-var DEFAULT_LANG = 'en';
+const DEFAULT_LANG = 'en';
 
 export default function localize(
   str: string,
   search?: string,
   replace?: string,
 ): string | undefined {
-  var [section, key] = str.toLowerCase().split('.');
+  const [section, key] = str.toLowerCase().split('.');
 
   let langStored: string | null = null;
 
@@ -83,7 +83,7 @@ export default function localize(
     langStored = localStorage.getItem('selectedLanguage');
   }
 
-  var lang = (langStored || navigator.language.split('-')[0] || DEFAULT_LANG)
+  const lang = (langStored || navigator.language.split('-')[0] || DEFAULT_LANG)
     .replace(/['"]+/g, '')
     .replace('-', '_');
 
