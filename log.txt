@@ -971,3 +971,4 @@
 0793. 📚 docs: clarify environment setup
 0575. ✅ test: add unit test for quiz service
 0292. 📚 docs: clarify environment setup
+0504. 📚 docs: document token refresh logic
