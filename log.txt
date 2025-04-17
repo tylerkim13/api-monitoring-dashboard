@@ -974,3 +974,4 @@
 0504. 📚 docs: document token refresh logic
 0356. 📚 docs: write FAQ section
 0318. 🔧 refactor: refactor quiz grading logic
+0454. ♻️ chore: bump dependencies
