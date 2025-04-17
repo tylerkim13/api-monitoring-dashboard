@@ -975,3 +975,4 @@
 0356. 📚 docs: write FAQ section
 0318. 🔧 refactor: refactor quiz grading logic
 0454. ♻️ chore: bump dependencies
+0803. ✅ test: mock database connection in test suite
