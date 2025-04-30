@@ -979,3 +979,4 @@
 0447. ♻️ chore: bump dependencies
 0058. ♻️ chore: add GitHub actions badge
 0049. 🐛 fix: handle 500 error in quiz API
+0845. 🚀 perf: cache repeated calculations
