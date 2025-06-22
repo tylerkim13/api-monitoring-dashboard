@@ -992,3 +992,4 @@
 0438. ♻️ chore: bump dependencies
 0528. ♻️ chore: clean up unused files
 0608. 🔧 refactor: remove redundant code blocks
+0217. 🚀 perf: reduce image load time
