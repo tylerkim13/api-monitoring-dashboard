@@ -996,3 +996,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0992. ♻️ chore: clean up unused files
 0995. ✅ test: mock database connection in test suite
+0821. ✅ test: add integration test for /submit endpoint
